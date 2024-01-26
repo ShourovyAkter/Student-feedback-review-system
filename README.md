@@ -1,4 +1,5 @@
-![HSTU_Logo](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/e54fd89e-93c2-4c78-bfd9-f2a23927728c)
+![HSTU_Logo](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/c16d1278-1ce9-41d4-87b4-0b07e0a57ff9)
+
 
 #### Course Title:Software Engineering
 #### Course Code:CSE305
@@ -28,16 +29,15 @@ With the rise of online education, student feedback systems may also encompass e
 #### Anonymous Feedback: 
 Many systems ensure anonymity to encourage honest and open feedback. This helps students feel more comfortable expressing their opinions, especially if they have concerns or criticisms.
 ## Figure:
-![WhatsApp Image 2024-01-24 at 10 02 57 PM](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/2b6285f2-d488-4394-aff9-867e45d0892f)
 
-![WhatsApp Image 2024-01-24 at 10 03 40 PM](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/1ef4209a-82ed-4086-9d1f-19a60a940c5e)
+![WhatsApp Image 2024-01-24 at 10 02 57 PM](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/e1e09d6f-6e85-45da-8832-57a9bbe409c7)
 
-![WhatsApp Image 2024-01-24 at 10 05 24 PM](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/2e12d8d7-cefd-4b5f-b5bd-d77d2df391bd)
+![WhatsApp Image 2024-01-24 at 10 03 40 PM](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/b340acb2-d74b-407c-8a09-e28159abc96c)
 
-
+![WhatsApp Image 2024-01-24 at 10 05 24 PM](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/79b572e7-21ad-48c0-9582-5d774d2ebd03)
 
 ## The peoject idea is implemented by Classical Waterfall Model:
-![image](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/b421a64b-0723-4643-952f-7963e0cd6353)
+![image](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/ff36e468-eb15-45f6-ac44-67b83b0ed2b2)
 
 The Software Development Life Cycle (SDLC) is a process used by software developers to design, develop, test, and deploy software applications. It consists of several phases, and adapting it to a Student Feedback Review System involves the following steps:
 
@@ -89,10 +89,9 @@ Address any issues or bugs identified post-deployment.
 Collect user feedback for future enhancements.
 Regularly update and maintain the system.
 ## Figure: SDLC Model for Student Feedback Review System
-![WhatsApp Image 2024-01-24 at 10 08 42 PM](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/b81af454-b677-464a-9560-f6b628ebd066)
+![WhatsApp Image 2024-01-24 at 10 08 42 PM](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/4ade3e64-e769-489c-bcc4-6d93fe0f7aeb)
 
-![WhatsApp Image 2024-01-24 at 10 09 23 PM](https://github.com/ShourovyAkter/Student-Feedback-Review.-System../assets/155612012/41cbfe8c-a781-4f80-a42f-dfe26eba9b2b)
-
+![WhatsApp Image 2024-01-24 at 10 09 23 PM](https://github.com/ShourovyAkter/Student-feedback-review-system/assets/155612012/4ccce702-1671-4e34-9b7a-a1126ee947f6)
 
 In this SDLC model for a Student Feedback Review System, each phase outlines the specific activities and objectives. The process is iterative, allowing for ongoing improvements based on feedback and changing requirements.
 ## Submitted By
